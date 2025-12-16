@@ -1,7 +1,6 @@
 #!/bin/bash
 # ==========================================
-# Kenny's Cyber Fedora 43 Setup Script (v4)
-# Automated via Gemini
+# Kenny's Cyber Fedora 43 Setup Script 
 # Includes: Virtualization, Warp, Cursor, Zsh, Fastfetch, Btop, Tldr, Apps
 # 
 # NOTE: This script is optimized for a Dell Precision 5770 running Fedora 43

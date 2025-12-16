@@ -1,6 +1,6 @@
-# Cyber-Engineering Fedora 43 Build Summary
+# Cyber-Engineering Fedora 43 Build 
 
-Here is the final summary of your Cyber-Engineering Fedora 43 Build. We turned a vanilla workstation into a fully customized pentesting lab.
+Here is a detailed breakdown of setting up our Workstaion up with a "Cyber" feel and tools that we'll use with pentesting :)
 
 ## 1. The "Cyber" Core (The Brain)
 
